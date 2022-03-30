@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\alexa\source\repos\Mid Term Project\Mid Term Project\Source.cpp(126,10): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\alexa\source\repos\Mid Term Project\Mid Term Project\Source.cpp(27,9): warning C4101: 'total': unreferenced local variable
+C:\Users\alexa\source\repos\Mid Term Project\Mid Term Project\Source.cpp(36,7): warning C4101: 'hamSelection': unreferenced local variable
+  Mid Term Project.vcxproj -> C:\Users\alexa\source\repos\Mid Term Project\x64\Debug\Mid Term Project.exe
